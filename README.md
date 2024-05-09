@@ -24,29 +24,19 @@ itemCount: an integer to keep track of the number of items in the basket.
 ### The class has several methods:
 append(String item, double price): adds an item to the basket
 delete(int index): removes an item at the specified index
-insert(int index, String item, double price): inserts an item at the specified index
-remove(String item): removes an item by name
 checkout(): calculates and displays the total price of the items in the basket
 getItemCount(): returns the number of items in the basket
 getItems(): returns an array of item names
 getPrices(): returns an array of item prices
 The main method creates a ShoppingBasket object and enters a loop to handle user input.
 ### The user is presented with a menu to:
-1.Append an item
+1.Add an item
 
 2.Delete an item
 
-3.Insert an item
+3.Checkout
 
-4.Remove an item
-
-5.View the cart
-
-6.Search for an item (not implemented)
-
-7.Checkout
-
-8.Exit the program
+4.Exit the program
 
 
 ## Explaination for GUI
