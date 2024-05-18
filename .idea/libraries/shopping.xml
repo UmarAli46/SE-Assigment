@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shopping">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SE-Assigment/shopping.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
